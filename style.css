@@ -1,0 +1,58 @@
+h1{
+  color: black;
+  text-align:center;
+  font-size: 50px;
+  
+}
+li {
+     text-align:justify;
+    display: inline;
+    padding: 50px;
+    margin: 50px;
+    font-size: 30px;
+}
+h2{
+    background-color:  rgb(87, 175, 187);
+    text-align:center;
+    font-size: 50px;
+font-style: oblique;
+}
+img{
+  size:5px;
+}
+ .right{
+font-size: 50px;
+background-color: rgb(243, 150, 243);
+width: 25%;
+margin: left ;
+height: 100%;
+padding: 25px;
+border-radius: 10px;;
+  }
+.center{
+  font-size: 50px;
+    background-color: rgb(154, 209, 231);
+    width: 25%;
+    margin: left ;
+    height: 100%;
+    padding: 25px;
+    border-radius: 10px;
+ }
+.button{
+  size: 50px;
+}
+.main{
+  display: flex;
+  }
+  .left{
+    font-size: 50px;
+    background-color: pink;
+    width: 25%;
+    margin: left ;
+    height: 100%;
+    padding: 25px; 
+    border-radius: 10px;     
+  }
+  .main{
+    gap: 10px;
+  }
